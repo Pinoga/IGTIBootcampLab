@@ -1,2 +1,2 @@
-# IGTIBootcampLab
-CI/CD Lab
+# wscicd
+Workshop CiCd
